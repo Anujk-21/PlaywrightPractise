@@ -10,8 +10,8 @@ export class loginpage{
     }
 
     async loginFun(){
-        await this.page.locator(locator.username).fill(testdata.name);
-        await this.page.locator(locator.password).fill(testdata.password);
+        await this.page.locator(locator.username).fill(testdata[0].name);
+        await this.page.locator(locator.password).fill(testdata[0].password);
         await this.page.locator(locator.login).click();
     }
 }
