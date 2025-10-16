@@ -7,8 +7,7 @@ export class EmiCalculatorPage {
 
   // Navigate to the EMI calculator homepage
   async gotoSite() {
-    await this.page.goto("https://emicalculator.net/");
-    await this.page.waitForLoadState("networkidle");
+    await this.page.goto("https://emicalculator.net/",{waitUntil:"load"});
   }
 
   // Fill car loan form
