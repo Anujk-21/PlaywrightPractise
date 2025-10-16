@@ -1,0 +1,6 @@
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }

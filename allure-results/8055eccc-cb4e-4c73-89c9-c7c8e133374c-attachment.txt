@@ -1,0 +1,6 @@
+Car Loan Principal Amt(one month) : ₹ 1,19,650
+Car Loan Interest Amt(one month) : ₹ 11,875
+Home Loan Principal Amt(one month) : ₹ 13,288
+Home Loan Interest Amt(one month) : ₹ 17,708
+Personal Loan Principal Amt(one month) : ₹ 4,714
+Personal Loan Interest Amt(one month) : ₹ 1,833

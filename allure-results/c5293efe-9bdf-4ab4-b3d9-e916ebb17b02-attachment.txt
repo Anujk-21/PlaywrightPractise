@@ -1,0 +1,12 @@
+Car Loan Principal Amt(one month) : ₹ 1,19,650
+Car Loan Interest Amt(one month) : ₹ 11,875
+Home Loan Principal Amt(one month) : ₹ 10,630
+Home Loan Interest Amt(one month) : ₹ 14,167
+Personal EMI Cal Principal Amt(one month) : ₹ 37,811.60
+Personal EMI Cal Amt(one month) : ₹ 8,333.33
+Loan amount Principal Amt(one month) : ₹ 3,60,002.65
+Loan amount Amt(one month) : ₹ 1,39,997.34
+Loan amount Principal Amt(one month) : ₹ 4,24,265.60
+Loan amount Amt(one month) : ₹ 75,734.36
+Loan Tenure : Loan Tenure36months
+Loan Tenure : Loan Interest Rate0.00%

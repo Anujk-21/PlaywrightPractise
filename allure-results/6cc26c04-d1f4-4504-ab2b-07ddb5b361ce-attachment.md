@@ -1,0 +1,263 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic:
+    - heading "Know About Travel Insurance" [level=1]
+    - text: Travel insurance allows you to secure your journey and remain stress-free against all the possible odds. Right travel insurance lets you explore every corner of the world with zero worries. Buy
+    - link "travel insurance":
+      - /url: https://www.policybazaar.com/travel-insurance/
+    - text: online and safeguard your travel emergencies effortlessly. With a constant increase in international travel trips, it becomes important to buy comprehensive overseas travel insurance against any uncertainties while you are on the trip. Understanding the nature and purpose of your travel, opt for suitable coverage based on your travel needs. In the world of actualities, eventualities do not come knocking. In case of any medical or travel-related emergency, having international travel insurance will make your trip less traumatic and you will come back with a baggage of happy memories. Buy travel insurance online and cover your back at every step of the journey. Remember, travel insurance is your reliable 24x7 friend on the foreign land. Do not take off until you buy travel insurance. Avail the best plan ensuring the safest journey.
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e7] [cursor=pointer]: Call us
+        - link "header__callUs":
+          - /url: tel:1800-419-7824
+      - link "PolicyBazaar" [ref=e8] [cursor=pointer]:
+        - /url: https://www.policybazaar.com/
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - article [ref=e11]:
+          - paragraph
+          - paragraph [ref=e12]:
+            - text: Travel worry free starting at
+            - generic [ref=e13]: ₹18/day*
+          - paragraph [ref=e14]: Instant quotes. Global coverage. Easy claims.
+        - article [ref=e15]:
+          - paragraph [ref=e16]: Why smart travellers choose insurance?
+          - list [ref=e17]:
+            - listitem [ref=e18]:
+              - paragraph [ref=e20]: Medical emergencies
+            - listitem [ref=e21]:
+              - paragraph [ref=e23]: Flight delays or cancellations
+            - listitem [ref=e24]:
+              - paragraph [ref=e26]: Lost baggage & passport
+            - listitem [ref=e27]:
+              - paragraph [ref=e29]: Theft or personal loss of belongings
+      - generic [ref=e30]:
+        - article [ref=e31]:
+          - heading "Where are you travelling to?" [level=1] [ref=e32]
+          - generic [ref=e35]:
+            - generic [ref=e36]: France
+            - textbox [ref=e37]
+          - paragraph [ref=e38]: Popular choices (You can add more than one country)
+          - list [ref=e39]:
+            - listitem [ref=e40] [cursor=pointer]:
+              - img "Schengen_Image" [ref=e42] [cursor=pointer]
+              - paragraph [ref=e43] [cursor=pointer]: Schengen(1)
+            - listitem [ref=e44] [cursor=pointer]:
+              - img "USA_Image" [ref=e46] [cursor=pointer]
+              - paragraph [ref=e47] [cursor=pointer]: USA
+            - listitem [ref=e48] [cursor=pointer]:
+              - img "Thailand_Image" [ref=e50] [cursor=pointer]
+              - paragraph [ref=e51] [cursor=pointer]: Thailand
+            - listitem [ref=e52] [cursor=pointer]:
+              - img "United Arab Emirates_Image" [ref=e54] [cursor=pointer]
+              - paragraph [ref=e55] [cursor=pointer]: United Arab Emirates
+            - listitem [ref=e56] [cursor=pointer]:
+              - img "United Kingdom_Image" [ref=e58] [cursor=pointer]
+              - paragraph [ref=e59] [cursor=pointer]: United Kingdom
+            - listitem [ref=e60] [cursor=pointer]:
+              - img "Germany_Image" [ref=e62] [cursor=pointer]
+              - paragraph [ref=e63] [cursor=pointer]: Germany
+        - article [ref=e64]:
+          - paragraph [ref=e67] [cursor=pointer]:
+            - generic [ref=e68] [cursor=pointer]: Start date
+          - paragraph [ref=e71] [cursor=pointer]:
+            - generic [ref=e72] [cursor=pointer]: End date
+        - article [ref=e73] [cursor=pointer]:
+          - paragraph [ref=e74] [cursor=pointer]: 0 Traveller(s)
+          - link "+ Add travellers" [ref=e76] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - button "Explore Plans ›" [ref=e78] [cursor=pointer]
+    - generic [ref=e81]:
+      - checkbox "*Disclaimer" [ref=e82] [cursor=pointer]
+      - generic [ref=e83]: "*Disclaimer"
+  - article [ref=e86]:
+    - link [ref=e87] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=e89]:
+      - heading "When are you planning to travel to France?" [level=3] [ref=e90]
+      - generic [ref=e91]: Don’t worry, you can update dates later
+      - generic [ref=e92]:
+        - generic [ref=e93]:
+          - generic [ref=e95]: Start date
+          - generic [ref=e98]: End date
+        - generic [ref=e101]:
+          - generic [ref=e102]:
+            - generic [ref=e103]:
+              - button [disabled]:
+                - generic:
+                  - img
+              - heading "October 2025" [level=6] [ref=e104]
+            - generic [ref=e105]:
+              - generic [ref=e106]: S
+              - generic [ref=e107]: M
+              - generic [ref=e108]: T
+              - generic [ref=e109]: W
+              - generic [ref=e110]: T
+              - generic [ref=e111]: F
+              - generic [ref=e112]: S
+            - grid [ref=e114]:
+              - row "Oct 1, 2025 Oct 2, 2025 Oct 3, 2025 Oct 4, 2025" [ref=e115]:
+                - generic [ref=e123]:
+                  - cell "Oct 1, 2025":
+                    - generic: "1"
+                - generic [ref=e125]:
+                  - cell "Oct 2, 2025":
+                    - generic: "2"
+                - generic [ref=e127]:
+                  - cell "Oct 3, 2025":
+                    - generic: "3"
+                - generic [ref=e129]:
+                  - cell "Oct 4, 2025":
+                    - generic: "4"
+              - row "Oct 5, 2025 Oct 6, 2025 Oct 7, 2025 Oct 8, 2025 Oct 9, 2025 Oct 10, 2025 Oct 11, 2025" [ref=e130]:
+                - generic [ref=e132]:
+                  - cell "Oct 5, 2025":
+                    - generic: "5"
+                - generic [ref=e134]:
+                  - cell "Oct 6, 2025":
+                    - generic: "6"
+                - generic [ref=e136]:
+                  - cell "Oct 7, 2025":
+                    - generic: "7"
+                - generic [ref=e138]:
+                  - cell "Oct 8, 2025":
+                    - generic: "8"
+                - generic [ref=e140]:
+                  - cell "Oct 9, 2025":
+                    - generic: "9"
+                - generic [ref=e142]:
+                  - cell "Oct 10, 2025":
+                    - generic: "10"
+                - generic [ref=e144]:
+                  - cell "Oct 11, 2025":
+                    - generic: "11"
+              - row "Oct 12, 2025 Oct 13, 2025 Oct 14, 2025 Oct 15, 2025 Oct 16, 2025 Oct 17, 2025 Oct 18, 2025" [ref=e145]:
+                - generic [ref=e147]:
+                  - cell "Oct 12, 2025":
+                    - generic: "12"
+                - cell "Oct 13, 2025" [ref=e150] [cursor=pointer]:
+                  - generic [ref=e151] [cursor=pointer]: "13"
+                - cell "Oct 14, 2025" [ref=e154] [cursor=pointer]:
+                  - generic [ref=e155] [cursor=pointer]: "14"
+                - cell "Oct 15, 2025" [ref=e158] [cursor=pointer]:
+                  - generic [ref=e159] [cursor=pointer]: "15"
+                - cell "Oct 16, 2025" [ref=e162] [cursor=pointer]:
+                  - generic [ref=e163] [cursor=pointer]: "16"
+                - cell "Oct 17, 2025" [ref=e166] [cursor=pointer]:
+                  - generic [ref=e167] [cursor=pointer]: "17"
+                - cell "Oct 18, 2025" [ref=e170] [cursor=pointer]:
+                  - generic [ref=e171] [cursor=pointer]: "18"
+              - row "Oct 19, 2025 Oct 20, 2025 Oct 21, 2025 Oct 22, 2025 Oct 23, 2025 Oct 24, 2025 Oct 25, 2025" [ref=e172]:
+                - cell "Oct 19, 2025" [ref=e175] [cursor=pointer]:
+                  - generic [ref=e176] [cursor=pointer]: "19"
+                - cell "Oct 20, 2025" [ref=e179] [cursor=pointer]:
+                  - generic [ref=e180] [cursor=pointer]: "20"
+                - cell "Oct 21, 2025" [ref=e183] [cursor=pointer]:
+                  - generic [ref=e184] [cursor=pointer]: "21"
+                - cell "Oct 22, 2025" [ref=e187] [cursor=pointer]:
+                  - generic [ref=e188] [cursor=pointer]: "22"
+                - cell "Oct 23, 2025" [ref=e191] [cursor=pointer]:
+                  - generic [ref=e192] [cursor=pointer]: "23"
+                - cell "Oct 24, 2025" [ref=e195] [cursor=pointer]:
+                  - generic [ref=e196] [cursor=pointer]: "24"
+                - cell "Oct 25, 2025" [ref=e199] [cursor=pointer]:
+                  - generic [ref=e200] [cursor=pointer]: "25"
+              - row "Oct 26, 2025 Oct 27, 2025 Oct 28, 2025 Oct 29, 2025 Oct 30, 2025 Oct 31, 2025" [ref=e201]:
+                - cell "Oct 26, 2025" [ref=e204] [cursor=pointer]:
+                  - generic [ref=e205] [cursor=pointer]: "26"
+                - cell "Oct 27, 2025" [ref=e208] [cursor=pointer]:
+                  - generic [ref=e209] [cursor=pointer]: "27"
+                - cell "Oct 28, 2025" [ref=e212] [cursor=pointer]:
+                  - generic [ref=e213] [cursor=pointer]: "28"
+                - cell "Oct 29, 2025" [ref=e216] [cursor=pointer]:
+                  - generic [ref=e217] [cursor=pointer]: "29"
+                - cell "Oct 30, 2025" [ref=e220] [cursor=pointer]:
+                  - generic [ref=e221] [cursor=pointer]: "30"
+                - cell "Oct 31, 2025" [ref=e224] [cursor=pointer]:
+                  - generic [ref=e225] [cursor=pointer]: "31"
+          - generic [ref=e228]:
+            - generic [ref=e229]:
+              - heading "November 2025" [level=6] [ref=e230]
+              - button [ref=e231] [cursor=pointer]:
+                - img [ref=e233] [cursor=pointer]
+            - generic [ref=e235]:
+              - generic [ref=e236]: S
+              - generic [ref=e237]: M
+              - generic [ref=e238]: T
+              - generic [ref=e239]: W
+              - generic [ref=e240]: T
+              - generic [ref=e241]: F
+              - generic [ref=e242]: S
+            - grid [ref=e244]:
+              - row "Nov 1, 2025" [ref=e245]:
+                - cell "Nov 1, 2025" [ref=e260] [cursor=pointer]:
+                  - generic [ref=e261] [cursor=pointer]: "1"
+              - row "Nov 2, 2025 Nov 3, 2025 Nov 4, 2025 Nov 5, 2025 Nov 6, 2025 Nov 7, 2025 Nov 8, 2025" [ref=e262]:
+                - cell "Nov 2, 2025" [ref=e265] [cursor=pointer]:
+                  - generic [ref=e266] [cursor=pointer]: "2"
+                - cell "Nov 3, 2025" [ref=e269] [cursor=pointer]:
+                  - generic [ref=e270] [cursor=pointer]: "3"
+                - cell "Nov 4, 2025" [ref=e273] [cursor=pointer]:
+                  - generic [ref=e274] [cursor=pointer]: "4"
+                - cell "Nov 5, 2025" [ref=e277] [cursor=pointer]:
+                  - generic [ref=e278] [cursor=pointer]: "5"
+                - cell "Nov 6, 2025" [ref=e281] [cursor=pointer]:
+                  - generic [ref=e282] [cursor=pointer]: "6"
+                - cell "Nov 7, 2025" [ref=e285] [cursor=pointer]:
+                  - generic [ref=e286] [cursor=pointer]: "7"
+                - cell "Nov 8, 2025" [ref=e289] [cursor=pointer]:
+                  - generic [ref=e290] [cursor=pointer]: "8"
+              - row "Nov 9, 2025 Nov 10, 2025 Nov 11, 2025 Nov 12, 2025 Nov 13, 2025 Nov 14, 2025 Nov 15, 2025" [ref=e291]:
+                - cell "Nov 9, 2025" [ref=e294] [cursor=pointer]:
+                  - generic [ref=e295] [cursor=pointer]: "9"
+                - cell "Nov 10, 2025" [ref=e298] [cursor=pointer]:
+                  - generic [ref=e299] [cursor=pointer]: "10"
+                - cell "Nov 11, 2025" [ref=e302] [cursor=pointer]:
+                  - generic [ref=e303] [cursor=pointer]: "11"
+                - cell "Nov 12, 2025" [ref=e306] [cursor=pointer]:
+                  - generic [ref=e307] [cursor=pointer]: "12"
+                - cell "Nov 13, 2025" [ref=e310] [cursor=pointer]:
+                  - generic [ref=e311] [cursor=pointer]: "13"
+                - cell "Nov 14, 2025" [ref=e314] [cursor=pointer]:
+                  - generic [ref=e315] [cursor=pointer]: "14"
+                - cell "Nov 15, 2025" [ref=e318] [cursor=pointer]:
+                  - generic [ref=e319] [cursor=pointer]: "15"
+              - row "Nov 16, 2025 Nov 17, 2025 Nov 18, 2025 Nov 19, 2025 Nov 20, 2025 Nov 21, 2025 Nov 22, 2025" [ref=e320]:
+                - cell "Nov 16, 2025" [ref=e323] [cursor=pointer]:
+                  - generic [ref=e324] [cursor=pointer]: "16"
+                - cell "Nov 17, 2025" [ref=e327] [cursor=pointer]:
+                  - generic [ref=e328] [cursor=pointer]: "17"
+                - cell "Nov 18, 2025" [ref=e331] [cursor=pointer]:
+                  - generic [ref=e332] [cursor=pointer]: "18"
+                - cell "Nov 19, 2025" [ref=e335] [cursor=pointer]:
+                  - generic [ref=e336] [cursor=pointer]: "19"
+                - cell "Nov 20, 2025" [ref=e339] [cursor=pointer]:
+                  - generic [ref=e340] [cursor=pointer]: "20"
+                - cell "Nov 21, 2025" [ref=e343] [cursor=pointer]:
+                  - generic [ref=e344] [cursor=pointer]: "21"
+                - cell "Nov 22, 2025" [ref=e347] [cursor=pointer]:
+                  - generic [ref=e348] [cursor=pointer]: "22"
+              - row "Nov 23, 2025 Nov 24, 2025 Nov 25, 2025 Nov 26, 2025 Nov 27, 2025 Nov 28, 2025 Nov 29, 2025" [ref=e349]:
+                - cell "Nov 23, 2025" [ref=e352] [cursor=pointer]:
+                  - generic [ref=e353] [cursor=pointer]: "23"
+                - cell "Nov 24, 2025" [ref=e356] [cursor=pointer]:
+                  - generic [ref=e357] [cursor=pointer]: "24"
+                - cell "Nov 25, 2025" [ref=e360] [cursor=pointer]:
+                  - generic [ref=e361] [cursor=pointer]: "25"
+                - cell "Nov 26, 2025" [ref=e364] [cursor=pointer]:
+                  - generic [ref=e365] [cursor=pointer]: "26"
+                - cell "Nov 27, 2025" [ref=e368] [cursor=pointer]:
+                  - generic [ref=e369] [cursor=pointer]: "27"
+                - cell "Nov 28, 2025" [ref=e372] [cursor=pointer]:
+                  - generic [ref=e373] [cursor=pointer]: "28"
+                - cell "Nov 29, 2025" [ref=e376] [cursor=pointer]:
+                  - generic [ref=e377] [cursor=pointer]: "29"
+              - row "Nov 30, 2025" [ref=e378]:
+                - cell "Nov 30, 2025" [ref=e381] [cursor=pointer]:
+                  - generic [ref=e382] [cursor=pointer]: "30"
+        - button "Continue" [ref=e397] [cursor=pointer]
+```

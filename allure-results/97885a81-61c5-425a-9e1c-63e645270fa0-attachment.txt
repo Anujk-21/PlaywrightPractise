@@ -1,0 +1,2 @@
+Car Loan Principal Amt(one month) : ₹ 1,19,650
+Car Loan Interest Amt(one month) : ₹ 11,875

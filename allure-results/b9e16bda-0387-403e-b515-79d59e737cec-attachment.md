@@ -1,0 +1,211 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic:
+    - heading "Know About Travel Insurance" [level=1]
+    - text: Travel insurance allows you to secure your journey and remain stress-free against all the possible odds. Right travel insurance lets you explore every corner of the world with zero worries. Buy
+    - link "travel insurance":
+      - /url: https://www.policybazaar.com/travel-insurance/
+    - text: online and safeguard your travel emergencies effortlessly. With a constant increase in international travel trips, it becomes important to buy comprehensive overseas travel insurance against any uncertainties while you are on the trip. Understanding the nature and purpose of your travel, opt for suitable coverage based on your travel needs. In the world of actualities, eventualities do not come knocking. In case of any medical or travel-related emergency, having international travel insurance will make your trip less traumatic and you will come back with a baggage of happy memories. Buy travel insurance online and cover your back at every step of the journey. Remember, travel insurance is your reliable 24x7 friend on the foreign land. Do not take off until you buy travel insurance. Avail the best plan ensuring the safest journey.
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e7] [cursor=pointer]: Call us
+        - link "header__callUs":
+          - /url: tel:1800-419-7824
+      - link "PolicyBazaar" [ref=e8] [cursor=pointer]:
+        - /url: https://www.policybazaar.com/
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - article [ref=e11]:
+          - paragraph
+          - paragraph [ref=e12]:
+            - text: Travel worry free starting at
+            - generic [ref=e13]: ₹18/day*
+          - paragraph [ref=e14]: Instant quotes. Global coverage. Easy claims.
+        - article [ref=e15]:
+          - paragraph [ref=e16]: Why smart travellers choose insurance?
+          - list [ref=e17]:
+            - listitem [ref=e18]:
+              - paragraph [ref=e20]: Medical emergencies
+            - listitem [ref=e21]:
+              - paragraph [ref=e23]: Flight delays or cancellations
+            - listitem [ref=e24]:
+              - paragraph [ref=e26]: Lost baggage & passport
+            - listitem [ref=e27]:
+              - paragraph [ref=e29]: Theft or personal loss of belongings
+      - generic [ref=e30]:
+        - article [ref=e31]:
+          - heading "Where are you travelling to?" [level=1] [ref=e32]
+          - generic [ref=e35]:
+            - generic [ref=e36]: France
+            - textbox [ref=e37]
+          - paragraph [ref=e38]: Popular choices (You can add more than one country)
+          - list [ref=e39]:
+            - listitem [ref=e40] [cursor=pointer]:
+              - img "Schengen_Image" [ref=e42] [cursor=pointer]
+              - paragraph [ref=e43] [cursor=pointer]: Schengen(1)
+            - listitem [ref=e44] [cursor=pointer]:
+              - img "USA_Image" [ref=e46] [cursor=pointer]
+              - paragraph [ref=e47] [cursor=pointer]: USA
+            - listitem [ref=e48] [cursor=pointer]:
+              - img "Thailand_Image" [ref=e50] [cursor=pointer]
+              - paragraph [ref=e51] [cursor=pointer]: Thailand
+            - listitem [ref=e52] [cursor=pointer]:
+              - img "United Arab Emirates_Image" [ref=e54] [cursor=pointer]
+              - paragraph [ref=e55] [cursor=pointer]: United Arab Emirates
+            - listitem [ref=e56] [cursor=pointer]:
+              - img "United Kingdom_Image" [ref=e58] [cursor=pointer]
+              - paragraph [ref=e59] [cursor=pointer]: United Kingdom
+            - listitem [ref=e60] [cursor=pointer]:
+              - img "Germany_Image" [ref=e62] [cursor=pointer]
+              - paragraph [ref=e63] [cursor=pointer]: Germany
+        - article [ref=e64]:
+          - paragraph [ref=e67] [cursor=pointer]:
+            - generic [ref=e68] [cursor=pointer]: Start date
+            - emphasis [ref=e69] [cursor=pointer]: 21 Oct 2025
+          - paragraph [ref=e72] [cursor=pointer]:
+            - generic [ref=e73] [cursor=pointer]: End date
+            - emphasis [ref=e74] [cursor=pointer]: 29 Oct 2025
+        - article [ref=e75] [cursor=pointer]:
+          - paragraph [ref=e76] [cursor=pointer]: 0 Traveller(s)
+          - link "+ Add travellers" [ref=e78] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - button "Explore Plans ›" [ref=e80] [cursor=pointer]
+    - generic [ref=e83]:
+      - checkbox "*Disclaimer" [ref=e84] [cursor=pointer]
+      - generic [ref=e85]: "*Disclaimer"
+  - article [ref=e88]:
+    - link [ref=e89] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=e91]:
+      - heading "How many travellers?" [level=3] [ref=e92]
+      - generic [ref=e93]: Don’t worry, you can update this info later
+      - generic [ref=e94]:
+        - generic [ref=e95]:
+          - generic [ref=e96]:
+            - generic [ref=e98] [cursor=pointer]: "1"
+            - generic [ref=e100] [cursor=pointer]: "2"
+            - generic [ref=e102] [cursor=pointer]: "3"
+            - generic [ref=e104] [cursor=pointer]: "4"
+            - generic [ref=e106] [cursor=pointer]: "5"
+            - generic [ref=e108] [cursor=pointer]: 6+
+          - generic [ref=e109]:
+            - generic [ref=e113] [cursor=pointer]:
+              - generic [ref=e115] [cursor=pointer]: Select age of traveller 1
+              - generic [ref=e118] [cursor=pointer]:
+                - generic [ref=e120] [cursor=pointer]: Less than 1 year
+                - generic [ref=e122] [cursor=pointer]: 1 year
+                - generic [ref=e124] [cursor=pointer]: 2 years
+                - generic [ref=e126] [cursor=pointer]: 3 years
+                - generic [ref=e128] [cursor=pointer]: 4 years
+                - generic [ref=e130] [cursor=pointer]: 5 years
+                - generic [ref=e132] [cursor=pointer]: 6 years
+                - generic [ref=e134] [cursor=pointer]: 7 years
+                - generic [ref=e136] [cursor=pointer]: 8 years
+                - generic [ref=e138] [cursor=pointer]: 9 years
+                - generic [ref=e140] [cursor=pointer]: 10 years
+                - generic [ref=e142] [cursor=pointer]: 11 years
+                - generic [ref=e144] [cursor=pointer]: 12 years
+                - generic [ref=e146] [cursor=pointer]: 13 years
+                - generic [ref=e148] [cursor=pointer]: 14 years
+                - generic [ref=e150] [cursor=pointer]: 15 years
+                - generic [ref=e152] [cursor=pointer]: 16 years
+                - generic [ref=e154] [cursor=pointer]: 17 years
+                - generic [ref=e156] [cursor=pointer]: 18 years
+                - generic [ref=e158] [cursor=pointer]: 19 years
+                - generic [ref=e160] [cursor=pointer]: 20 years
+                - generic [ref=e162] [cursor=pointer]: 21 years
+                - generic [ref=e164] [cursor=pointer]: 22 years
+                - generic [ref=e166] [cursor=pointer]: 23 years
+                - generic [ref=e168] [cursor=pointer]: 24 years
+                - generic [ref=e170] [cursor=pointer]: 25 years
+                - generic [ref=e172] [cursor=pointer]: 26 years
+                - generic [ref=e174] [cursor=pointer]: 27 years
+                - generic [ref=e176] [cursor=pointer]: 28 years
+                - generic [ref=e178] [cursor=pointer]: 29 years
+                - generic [ref=e180] [cursor=pointer]: 30 years
+                - generic [ref=e182] [cursor=pointer]: 31 years
+                - generic [ref=e184] [cursor=pointer]: 32 years
+                - generic [ref=e186] [cursor=pointer]: 33 years
+                - generic [ref=e188] [cursor=pointer]: 34 years
+                - generic [ref=e190] [cursor=pointer]: 35 years
+                - generic [ref=e192] [cursor=pointer]: 36 years
+                - generic [ref=e194] [cursor=pointer]: 37 years
+                - generic [ref=e196] [cursor=pointer]: 38 years
+                - generic [ref=e198] [cursor=pointer]: 39 years
+                - generic [ref=e200] [cursor=pointer]: 40 years
+                - generic [ref=e202] [cursor=pointer]: 41 years
+                - generic [ref=e204] [cursor=pointer]: 42 years
+                - generic [ref=e206] [cursor=pointer]: 43 years
+                - generic [ref=e208] [cursor=pointer]: 44 years
+                - generic [ref=e210] [cursor=pointer]: 45 years
+                - generic [ref=e212] [cursor=pointer]: 46 years
+                - generic [ref=e214] [cursor=pointer]: 47 years
+                - generic [ref=e216] [cursor=pointer]: 48 years
+                - generic [ref=e218] [cursor=pointer]: 49 years
+                - generic [ref=e220] [cursor=pointer]: 50 years
+                - generic [ref=e222] [cursor=pointer]: 51 years
+                - generic [ref=e224] [cursor=pointer]: 52 years
+                - generic [ref=e226] [cursor=pointer]: 53 years
+                - generic [ref=e228] [cursor=pointer]: 54 years
+                - generic [ref=e230] [cursor=pointer]: 55 years
+                - generic [ref=e232] [cursor=pointer]: 56 years
+                - generic [ref=e234] [cursor=pointer]: 57 years
+                - generic [ref=e236] [cursor=pointer]: 58 years
+                - generic [ref=e238] [cursor=pointer]: 59 years
+                - generic [ref=e240] [cursor=pointer]: 60 years
+                - generic [ref=e242] [cursor=pointer]: 61 years
+                - generic [ref=e244] [cursor=pointer]: 62 years
+                - generic [ref=e246] [cursor=pointer]: 63 years
+                - generic [ref=e248] [cursor=pointer]: 64 years
+                - generic [ref=e250] [cursor=pointer]: 65 years
+                - generic [ref=e252] [cursor=pointer]: 66 years
+                - generic [ref=e254] [cursor=pointer]: 67 years
+                - generic [ref=e256] [cursor=pointer]: 68 years
+                - generic [ref=e258] [cursor=pointer]: 69 years
+                - generic [ref=e260] [cursor=pointer]: 70 years
+                - generic [ref=e262] [cursor=pointer]: 71 years
+                - generic [ref=e264] [cursor=pointer]: 72 years
+                - generic [ref=e266] [cursor=pointer]: 73 years
+                - generic [ref=e268] [cursor=pointer]: 74 years
+                - generic [ref=e270] [cursor=pointer]: 75 years
+                - generic [ref=e272] [cursor=pointer]: 76 years
+                - generic [ref=e274] [cursor=pointer]: 77 years
+                - generic [ref=e276] [cursor=pointer]: 78 years
+                - generic [ref=e278] [cursor=pointer]: 79 years
+                - generic [ref=e280] [cursor=pointer]: 80 years
+                - generic [ref=e282] [cursor=pointer]: 81 years
+                - generic [ref=e284] [cursor=pointer]: 82 years
+                - generic [ref=e286] [cursor=pointer]: 83 years
+                - generic [ref=e288] [cursor=pointer]: 84 years
+                - generic [ref=e290] [cursor=pointer]: 85 years
+                - generic [ref=e292] [cursor=pointer]: 86 years
+                - generic [ref=e294] [cursor=pointer]: 87 years
+                - generic [ref=e296] [cursor=pointer]: 88 years
+                - generic [ref=e298] [cursor=pointer]: 89 years
+                - generic [ref=e300] [cursor=pointer]: 90 years
+                - generic [ref=e302] [cursor=pointer]: 91 years
+                - generic [ref=e304] [cursor=pointer]: 92 years
+                - generic [ref=e306] [cursor=pointer]: 93 years
+                - generic [ref=e308] [cursor=pointer]: 94 years
+                - generic [ref=e310] [cursor=pointer]: 95 years
+                - generic [ref=e312] [cursor=pointer]: 96 years
+                - generic [ref=e314] [cursor=pointer]: 97 years
+                - generic [ref=e316] [cursor=pointer]: 98 years
+                - generic [ref=e318] [cursor=pointer]: 99 years
+            - generic [ref=e324] [cursor=pointer]: Select age of traveller 2
+        - generic [ref=e325]:
+          - paragraph [ref=e326]:
+            - text: Do any of the travellers have pre-existing medical conditions like high BP, diabetes, or any other health issues?
+            - generic [ref=e327]: This helps us find the right plan for you
+          - generic [ref=e328]:
+            - generic [ref=e329]:
+              - radio "Yes" [ref=e330]
+              - generic [ref=e331] [cursor=pointer]: "Yes"
+            - generic [ref=e332]:
+              - radio "No" [ref=e333]
+              - generic [ref=e334] [cursor=pointer]: "No"
+        - button "Done" [ref=e337] [cursor=pointer]
+```

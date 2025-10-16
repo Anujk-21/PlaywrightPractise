@@ -1,0 +1,2 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OGQwY2E2YmY2NjlkNmNiMGFkZjRhMTgiLCJ1c2VyRW1haWwiOiJhbnVqQGFudWouY29tIiwidXNlck1vYmlsZSI6Njc1NDMyMTkwMywidXNlclJvbGUiOiJjdXN0b21lciIsImlhdCI6MTc2MDMyNjcwNywiZXhwIjoxNzkxODg0MzA3fQ.4mPhnpn_T4dx8SDNhB0vlrHANUG_LAsw-3JjOBcqpUs
+{ type: 'Invalid', message: 'Access denied. No token provided.' }

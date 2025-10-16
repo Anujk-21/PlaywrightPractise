@@ -1,0 +1,79 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic:
+    - heading "Know About Travel Insurance" [level=1]
+    - text: Travel insurance allows you to secure your journey and remain stress-free against all the possible odds. Right travel insurance lets you explore every corner of the world with zero worries. Buy
+    - link "travel insurance":
+      - /url: https://www.policybazaar.com/travel-insurance/
+    - text: online and safeguard your travel emergencies effortlessly. With a constant increase in international travel trips, it becomes important to buy comprehensive overseas travel insurance against any uncertainties while you are on the trip. Understanding the nature and purpose of your travel, opt for suitable coverage based on your travel needs. In the world of actualities, eventualities do not come knocking. In case of any medical or travel-related emergency, having international travel insurance will make your trip less traumatic and you will come back with a baggage of happy memories. Buy travel insurance online and cover your back at every step of the journey. Remember, travel insurance is your reliable 24x7 friend on the foreign land. Do not take off until you buy travel insurance. Avail the best plan ensuring the safest journey.
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e7] [cursor=pointer]: Call us
+        - link "header__callUs":
+          - /url: tel:1800-419-7824
+      - link "PolicyBazaar" [ref=e8] [cursor=pointer]:
+        - /url: https://www.policybazaar.com/
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - article [ref=e11]:
+          - paragraph
+          - paragraph [ref=e12]:
+            - text: Travel worry free starting at
+            - generic [ref=e13]: ₹18/day*
+          - paragraph [ref=e14]: Instant quotes. Global coverage. Easy claims.
+        - article [ref=e15]:
+          - paragraph [ref=e16]: Why smart travellers choose insurance?
+          - list [ref=e17]:
+            - listitem [ref=e18]:
+              - paragraph [ref=e20]: Medical emergencies
+            - listitem [ref=e21]:
+              - paragraph [ref=e23]: Flight delays or cancellations
+            - listitem [ref=e24]:
+              - paragraph [ref=e26]: Lost baggage & passport
+            - listitem [ref=e27]:
+              - paragraph [ref=e29]: Theft or personal loss of belongings
+      - generic [ref=e30]:
+        - article [ref=e31]:
+          - heading "Where are you travelling to?" [level=1] [ref=e32]
+          - generic [ref=e35]:
+            - generic [ref=e36]: France
+            - textbox [ref=e37]
+          - paragraph [ref=e38]: Popular choices (You can add more than one country)
+          - list [ref=e39]:
+            - listitem [ref=e40] [cursor=pointer]:
+              - img "Schengen_Image" [ref=e42] [cursor=pointer]
+              - paragraph [ref=e43] [cursor=pointer]: Schengen(1)
+            - listitem [ref=e44] [cursor=pointer]:
+              - img "USA_Image" [ref=e46] [cursor=pointer]
+              - paragraph [ref=e47] [cursor=pointer]: USA
+            - listitem [ref=e48] [cursor=pointer]:
+              - img "Thailand_Image" [ref=e50] [cursor=pointer]
+              - paragraph [ref=e51] [cursor=pointer]: Thailand
+            - listitem [ref=e52] [cursor=pointer]:
+              - img "United Arab Emirates_Image" [ref=e54] [cursor=pointer]
+              - paragraph [ref=e55] [cursor=pointer]: United Arab Emirates
+            - listitem [ref=e56] [cursor=pointer]:
+              - img "United Kingdom_Image" [ref=e58] [cursor=pointer]
+              - paragraph [ref=e59] [cursor=pointer]: United Kingdom
+            - listitem [ref=e60] [cursor=pointer]:
+              - img "Germany_Image" [ref=e62] [cursor=pointer]
+              - paragraph [ref=e63] [cursor=pointer]: Germany
+        - article [ref=e64]:
+          - paragraph [ref=e67] [cursor=pointer]:
+            - generic [ref=e68] [cursor=pointer]: Start date
+            - emphasis [ref=e69] [cursor=pointer]: 21 Oct 2025
+          - paragraph [ref=e72] [cursor=pointer]:
+            - generic [ref=e73] [cursor=pointer]: End date
+            - emphasis [ref=e74] [cursor=pointer]: 29 Oct 2025
+        - article [ref=e75] [cursor=pointer]:
+          - paragraph [ref=e76] [cursor=pointer]: 2 Traveller(s)
+          - link "+ Add travellers" [ref=e78] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - button "Explore Plans ›" [ref=e80] [cursor=pointer]
+    - generic [ref=e83]:
+      - checkbox "*Disclaimer" [ref=e84] [cursor=pointer]
+      - generic [ref=e85]: "*Disclaimer"
+```

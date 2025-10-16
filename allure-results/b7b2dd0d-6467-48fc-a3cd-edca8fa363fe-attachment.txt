@@ -1,0 +1,2 @@
+undefined
+{ type: 'Invalid', message: 'Session Timeout' }

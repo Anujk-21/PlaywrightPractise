@@ -1,0 +1,448 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic:
+    - heading "Know About Travel Insurance" [level=1]
+    - text: Travel insurance allows you to secure your journey and remain stress-free against all the possible odds. Right travel insurance lets you explore every corner of the world with zero worries. Buy
+    - link "travel insurance":
+      - /url: https://www.policybazaar.com/travel-insurance/
+    - text: online and safeguard your travel emergencies effortlessly. With a constant increase in international travel trips, it becomes important to buy comprehensive overseas travel insurance against any uncertainties while you are on the trip. Understanding the nature and purpose of your travel, opt for suitable coverage based on your travel needs. In the world of actualities, eventualities do not come knocking. In case of any medical or travel-related emergency, having international travel insurance will make your trip less traumatic and you will come back with a baggage of happy memories. Buy travel insurance online and cover your back at every step of the journey. Remember, travel insurance is your reliable 24x7 friend on the foreign land. Do not take off until you buy travel insurance. Avail the best plan ensuring the safest journey.
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e7] [cursor=pointer]: Call us
+        - link "header__callUs":
+          - /url: tel:1800-419-7824
+      - link "PolicyBazaar" [ref=e8] [cursor=pointer]:
+        - /url: https://www.policybazaar.com/
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - article [ref=e11]:
+          - paragraph
+          - paragraph [ref=e12]:
+            - text: Travel worry free starting at
+            - generic [ref=e13]: ₹18/day*
+          - paragraph [ref=e14]: Instant quotes. Global coverage. Easy claims.
+        - article [ref=e15]:
+          - paragraph [ref=e16]: Why smart travellers choose insurance?
+          - list [ref=e17]:
+            - listitem [ref=e18]:
+              - paragraph [ref=e20]: Medical emergencies
+            - listitem [ref=e21]:
+              - paragraph [ref=e23]: Flight delays or cancellations
+            - listitem [ref=e24]:
+              - paragraph [ref=e26]: Lost baggage & passport
+            - listitem [ref=e27]:
+              - paragraph [ref=e29]: Theft or personal loss of belongings
+      - generic [ref=e30]:
+        - article [ref=e31]:
+          - heading "Where are you travelling to?" [level=1] [ref=e32]
+          - generic [ref=e33]:
+            - textbox "Search country" [active] [ref=e36]
+            - list [ref=e37]:
+              - listitem [ref=e38]:
+                - generic [ref=e39]: You can add more than one country
+              - listitem [ref=e40] [cursor=pointer]: USA
+              - listitem [ref=e41] [cursor=pointer]: Thailand
+              - listitem [ref=e42] [cursor=pointer]: United Kingdom
+              - listitem [ref=e43] [cursor=pointer]: Singapore
+              - listitem [ref=e44] [cursor=pointer]: United Arab Emirates
+              - listitem [ref=e45] [cursor=pointer]: France
+              - listitem [ref=e46] [cursor=pointer]: Germany
+              - listitem [ref=e47] [cursor=pointer]: Canada
+              - listitem [ref=e48] [cursor=pointer]: Netherlands
+              - listitem [ref=e49] [cursor=pointer]: Italy
+              - listitem [ref=e50] [cursor=pointer]: Switzerland
+              - listitem [ref=e51] [cursor=pointer]: Malaysia
+              - listitem [ref=e52] [cursor=pointer]: Indonesia
+              - listitem [ref=e53] [cursor=pointer]: Australia
+              - listitem [ref=e54] [cursor=pointer]: Spain
+              - listitem [ref=e55] [cursor=pointer]: Turkey
+              - listitem [ref=e56] [cursor=pointer]: Austria
+              - listitem [ref=e57] [cursor=pointer]: Belgium
+              - listitem [ref=e58] [cursor=pointer]: Sri Lanka
+              - listitem [ref=e59] [cursor=pointer]: Aalborg, Denmark
+              - listitem [ref=e60] [cursor=pointer]: Aberdeen, Scotland
+              - listitem [ref=e61] [cursor=pointer]: AbuDhabi, United Arab Emirates (UAE)
+              - listitem [ref=e62] [cursor=pointer]: Afghanistan
+              - listitem [ref=e63] [cursor=pointer]: Albania
+              - listitem [ref=e64] [cursor=pointer]: Algeria
+              - listitem [ref=e65] [cursor=pointer]: Almeria, Spain
+              - listitem [ref=e66] [cursor=pointer]: American Samoa
+              - listitem [ref=e67] [cursor=pointer]: Amsterdam, Netherlands
+              - listitem [ref=e68] [cursor=pointer]: Andorra
+              - listitem [ref=e69] [cursor=pointer]: Angola
+              - listitem [ref=e70] [cursor=pointer]: Anguilla
+              - listitem [ref=e71] [cursor=pointer]: Antigua and Barbuda
+              - listitem [ref=e72] [cursor=pointer]: Antwerp, Belgium
+              - listitem [ref=e73] [cursor=pointer]: Argentina
+              - listitem [ref=e74] [cursor=pointer]: Armenia
+              - listitem [ref=e75] [cursor=pointer]: Aruba
+              - listitem [ref=e76] [cursor=pointer]: Augsburg, Germany
+              - listitem [ref=e77] [cursor=pointer]: Azerbaijan
+              - listitem [ref=e78] [cursor=pointer]: Bahamas
+              - listitem [ref=e79] [cursor=pointer]: Bahrain
+              - listitem [ref=e80] [cursor=pointer]: Bangladesh
+              - listitem [ref=e81] [cursor=pointer]: Barbados
+              - listitem [ref=e82] [cursor=pointer]: Barcelona, Spain
+              - listitem [ref=e83] [cursor=pointer]: Belarus
+              - listitem [ref=e84] [cursor=pointer]: Belize
+              - listitem [ref=e85] [cursor=pointer]: Benin
+              - listitem [ref=e86] [cursor=pointer]: Berlin, Germany
+              - listitem [ref=e87] [cursor=pointer]: Bermuda
+              - listitem [ref=e88] [cursor=pointer]: Bern, Switzerland
+              - listitem [ref=e89] [cursor=pointer]: Bhutan
+              - listitem [ref=e90] [cursor=pointer]: Bolivia
+              - listitem [ref=e91] [cursor=pointer]: Bologna, Italy
+              - listitem [ref=e92] [cursor=pointer]: Bonaire
+              - listitem [ref=e93] [cursor=pointer]: Bordeaux, France
+              - listitem [ref=e94] [cursor=pointer]: Bosnia and Herzegovina
+              - listitem [ref=e95] [cursor=pointer]: Botswana
+              - listitem [ref=e96] [cursor=pointer]: Brazil
+              - listitem [ref=e97] [cursor=pointer]: Bremen, Germany
+              - listitem [ref=e98] [cursor=pointer]: Brighton, England
+              - listitem [ref=e99] [cursor=pointer]: British Indian Ocean Territory
+              - listitem [ref=e100] [cursor=pointer]: British Virgin Islands
+              - listitem [ref=e101] [cursor=pointer]: Brunei Darussalam
+              - listitem [ref=e102] [cursor=pointer]: Brussels, Belgium
+              - listitem [ref=e103] [cursor=pointer]: Budapest, Hungary
+              - listitem [ref=e104] [cursor=pointer]: Bulgaria
+              - listitem [ref=e105] [cursor=pointer]: Burkina Faso
+              - listitem [ref=e106] [cursor=pointer]: Burundi
+              - listitem [ref=e107] [cursor=pointer]: Calgary, Canada
+              - listitem [ref=e108] [cursor=pointer]: Cambodia
+              - listitem [ref=e109] [cursor=pointer]: Cambridge, England
+              - listitem [ref=e110] [cursor=pointer]: Cameroon
+              - listitem [ref=e111] [cursor=pointer]: Cape Verde
+              - listitem [ref=e112] [cursor=pointer]: Cardiff, Wales
+              - listitem [ref=e113] [cursor=pointer]: Cayman Islands
+              - listitem [ref=e114] [cursor=pointer]: Central African Republic
+              - listitem [ref=e115] [cursor=pointer]: Chad
+              - listitem [ref=e116] [cursor=pointer]: Chile
+              - listitem [ref=e117] [cursor=pointer]: China
+              - listitem [ref=e118] [cursor=pointer]: Christmas Island
+              - listitem [ref=e119] [cursor=pointer]: Cocos (Keeling) Islands
+              - listitem [ref=e120] [cursor=pointer]: Coimbra, Portugal
+              - listitem [ref=e121] [cursor=pointer]: Cologne, Germany
+              - listitem [ref=e122] [cursor=pointer]: Colombia
+              - listitem [ref=e123] [cursor=pointer]: Comoros
+              - listitem [ref=e124] [cursor=pointer]: Congo
+              - listitem [ref=e125] [cursor=pointer]: Cook Islands
+              - listitem [ref=e126] [cursor=pointer]: Cork, Ireland
+              - listitem [ref=e127] [cursor=pointer]: Costa Rica
+              - listitem [ref=e128] [cursor=pointer]: Cote d'Ivoire
+              - listitem [ref=e129] [cursor=pointer]: Croatia
+              - listitem [ref=e130] [cursor=pointer]: Cuba
+              - listitem [ref=e131] [cursor=pointer]: Curacao
+              - listitem [ref=e132] [cursor=pointer]: Cyprus
+              - listitem [ref=e133] [cursor=pointer]: Czech Republic
+              - listitem [ref=e134] [cursor=pointer]: Denmark
+              - listitem [ref=e135] [cursor=pointer]: Denver, United States of America
+              - listitem [ref=e136] [cursor=pointer]: Dhaka, Bangladesh
+              - listitem [ref=e137] [cursor=pointer]: Djibouti
+              - listitem [ref=e138] [cursor=pointer]: Dominica
+              - listitem [ref=e139] [cursor=pointer]: Dominican Republic
+              - listitem [ref=e140] [cursor=pointer]: Dortmund, Germany
+              - listitem [ref=e141] [cursor=pointer]: Dubai, UAE
+              - listitem [ref=e142] [cursor=pointer]: Dublin, Ireland
+              - listitem [ref=e143] [cursor=pointer]: Ecuador
+              - listitem [ref=e144] [cursor=pointer]: Ediburgh, Scotland
+              - listitem [ref=e145] [cursor=pointer]: Egypt
+              - listitem [ref=e146] [cursor=pointer]: El Salvador
+              - listitem [ref=e147] [cursor=pointer]: England
+              - listitem [ref=e148] [cursor=pointer]: Equatorial Guinea
+              - listitem [ref=e149] [cursor=pointer]: Eritrea
+              - listitem [ref=e150] [cursor=pointer]: Esbjerg, Denmark
+              - listitem [ref=e151] [cursor=pointer]: Estonia
+              - listitem [ref=e152] [cursor=pointer]: Ethiopia
+              - listitem [ref=e153] [cursor=pointer]: Falkland Islands (Malvinas)
+              - listitem [ref=e154] [cursor=pointer]: Faroe Islands
+              - listitem [ref=e155] [cursor=pointer]: Fiji
+              - listitem [ref=e156] [cursor=pointer]: Finland
+              - listitem [ref=e157] [cursor=pointer]: Florence, Italy
+              - listitem [ref=e158] [cursor=pointer]: Frankfurt, Germany
+              - listitem [ref=e159] [cursor=pointer]: French Guiana
+              - listitem [ref=e160] [cursor=pointer]: French Polynesia
+              - listitem [ref=e161] [cursor=pointer]: Gabon
+              - listitem [ref=e162] [cursor=pointer]: Galway, Ireland
+              - listitem [ref=e163] [cursor=pointer]: Gambia
+              - listitem [ref=e164] [cursor=pointer]: Genoa, Italy
+              - listitem [ref=e165] [cursor=pointer]: Georgia
+              - listitem [ref=e166] [cursor=pointer]: Ghana
+              - listitem [ref=e167] [cursor=pointer]: Ghent, Belgium
+              - listitem [ref=e168] [cursor=pointer]: Gibraltar
+              - listitem [ref=e169] [cursor=pointer]: Glasgow, Scotland
+              - listitem [ref=e170] [cursor=pointer]: Granada, Spain
+              - listitem [ref=e171] [cursor=pointer]: Graz, Austria
+              - listitem [ref=e172] [cursor=pointer]: Greece
+              - listitem [ref=e173] [cursor=pointer]: Greenland
+              - listitem [ref=e174] [cursor=pointer]: Grenada
+              - listitem [ref=e175] [cursor=pointer]: Guadeloupe
+              - listitem [ref=e176] [cursor=pointer]: Guam
+              - listitem [ref=e177] [cursor=pointer]: Guatemala
+              - listitem [ref=e178] [cursor=pointer]: Guernsey
+              - listitem [ref=e179] [cursor=pointer]: Guinea
+              - listitem [ref=e180] [cursor=pointer]: Guinea-Bissau
+              - listitem [ref=e181] [cursor=pointer]: Guyana
+              - listitem [ref=e182] [cursor=pointer]: Haiti
+              - listitem [ref=e183] [cursor=pointer]: Hamburg, Germany
+              - listitem [ref=e184] [cursor=pointer]: Hanover, Germany
+              - listitem [ref=e185] [cursor=pointer]: Helsinki, Finland
+              - listitem [ref=e186] [cursor=pointer]: Herning, Denmark
+              - listitem [ref=e187] [cursor=pointer]: Holy See (Vatican City State)
+              - listitem [ref=e188] [cursor=pointer]: Honduras
+              - listitem [ref=e189] [cursor=pointer]: Hong Kong
+              - listitem [ref=e190] [cursor=pointer]: Hungary
+              - listitem [ref=e191] [cursor=pointer]: Iceland
+              - listitem [ref=e192] [cursor=pointer]: Iran
+              - listitem [ref=e193] [cursor=pointer]: Iraq
+              - listitem [ref=e194] [cursor=pointer]: Ireland
+              - listitem [ref=e195] [cursor=pointer]: Isle of Man
+              - listitem [ref=e196] [cursor=pointer]: Israel
+              - listitem [ref=e197] [cursor=pointer]: Jamaica
+              - listitem [ref=e198] [cursor=pointer]: Japan
+              - listitem [ref=e199] [cursor=pointer]: Jersey
+              - listitem [ref=e200] [cursor=pointer]: Jessore, Bangladesh
+              - listitem [ref=e201] [cursor=pointer]: Jordan
+              - listitem [ref=e202] [cursor=pointer]: Kabul, Afghanistan
+              - listitem [ref=e203] [cursor=pointer]: Kazakhstan
+              - listitem [ref=e204] [cursor=pointer]: Kenya
+              - listitem [ref=e205] [cursor=pointer]: Khulna, Bangladesh
+              - listitem [ref=e206] [cursor=pointer]: Kiribati
+              - listitem [ref=e207] [cursor=pointer]: Kosovo
+              - listitem [ref=e208] [cursor=pointer]: Kuwait
+              - listitem [ref=e209] [cursor=pointer]: Kyrgyz Republic
+              - listitem [ref=e210] [cursor=pointer]: Latvia
+              - listitem [ref=e211] [cursor=pointer]: Lebanon
+              - listitem [ref=e212] [cursor=pointer]: Lesotho
+              - listitem [ref=e213] [cursor=pointer]: Liberia
+              - listitem [ref=e214] [cursor=pointer]: Libyan Arab Jamahiriya
+              - listitem [ref=e215] [cursor=pointer]: Liechtenstein
+              - listitem [ref=e216] [cursor=pointer]: Lille, France
+              - listitem [ref=e217] [cursor=pointer]: Limerick, Ireland
+              - listitem [ref=e218] [cursor=pointer]: Lisbon, Portugal
+              - listitem [ref=e219] [cursor=pointer]: Lithuania
+              - listitem [ref=e220] [cursor=pointer]: Liverpool, England
+              - listitem [ref=e221] [cursor=pointer]: London, England
+              - listitem [ref=e222] [cursor=pointer]: Los Angeles, United States of America
+              - listitem [ref=e223] [cursor=pointer]: Luxembourg
+              - listitem [ref=e224] [cursor=pointer]: Lyon, France
+              - listitem [ref=e225] [cursor=pointer]: Macau
+              - listitem [ref=e226] [cursor=pointer]: Macedonia
+              - listitem [ref=e227] [cursor=pointer]: Madagascar
+              - listitem [ref=e228] [cursor=pointer]: Madrid, Spain
+              - listitem [ref=e229] [cursor=pointer]: Malaga, Spain
+              - listitem [ref=e230] [cursor=pointer]: Malawi
+              - listitem [ref=e231] [cursor=pointer]: Maldives
+              - listitem [ref=e232] [cursor=pointer]: Mali
+              - listitem [ref=e233] [cursor=pointer]: Malta
+              - listitem [ref=e234] [cursor=pointer]: Manama, Bahrain
+              - listitem [ref=e235] [cursor=pointer]: Manchester, England
+              - listitem [ref=e236] [cursor=pointer]: Marseille, France
+              - listitem [ref=e237] [cursor=pointer]: Marshall Islands
+              - listitem [ref=e238] [cursor=pointer]: Martinique
+              - listitem [ref=e239] [cursor=pointer]: Mauritania
+              - listitem [ref=e240] [cursor=pointer]: Mauritius
+              - listitem [ref=e241] [cursor=pointer]: Mayotte
+              - listitem [ref=e242] [cursor=pointer]: Mexico
+              - listitem [ref=e243] [cursor=pointer]: Micronesia
+              - listitem [ref=e244] [cursor=pointer]: Milan, Italy
+              - listitem [ref=e245] [cursor=pointer]: Moldova
+              - listitem [ref=e246] [cursor=pointer]: Monaco
+              - listitem [ref=e247] [cursor=pointer]: Mongolia
+              - listitem [ref=e248] [cursor=pointer]: Montenegro
+              - listitem [ref=e249] [cursor=pointer]: Montpellier, France
+              - listitem [ref=e250] [cursor=pointer]: Montreal, Canada
+              - listitem [ref=e251] [cursor=pointer]: Montserrat
+              - listitem [ref=e252] [cursor=pointer]: Morocco
+              - listitem [ref=e253] [cursor=pointer]: Mozambique
+              - listitem [ref=e254] [cursor=pointer]: Munich, Germany
+              - listitem [ref=e255] [cursor=pointer]: Myanmar
+              - listitem [ref=e256] [cursor=pointer]: Namibia
+              - listitem [ref=e257] [cursor=pointer]: Nantes, France
+              - listitem [ref=e258] [cursor=pointer]: Naples, Italy
+              - listitem [ref=e259] [cursor=pointer]: Nauru
+              - listitem [ref=e260] [cursor=pointer]: Nepal
+              - listitem [ref=e261] [cursor=pointer]: Netherlands Antilles
+              - listitem [ref=e262] [cursor=pointer]: New Caledonia
+              - listitem [ref=e263] [cursor=pointer]: New York, United States of America
+              - listitem [ref=e264] [cursor=pointer]: New Zealand
+              - listitem [ref=e265] [cursor=pointer]: Nicaragua
+              - listitem [ref=e266] [cursor=pointer]: Niger
+              - listitem [ref=e267] [cursor=pointer]: Nigeria
+              - listitem [ref=e268] [cursor=pointer]: Niue
+              - listitem [ref=e269] [cursor=pointer]: Norfolk Island
+              - listitem [ref=e270] [cursor=pointer]: Northern Mariana Islands
+              - listitem [ref=e271] [cursor=pointer]: Norway
+              - listitem [ref=e272] [cursor=pointer]: Oman
+              - listitem [ref=e273] [cursor=pointer]: Ottawa, Canada
+              - listitem [ref=e274] [cursor=pointer]: Oxford, England
+              - listitem [ref=e275] [cursor=pointer]: Pakistan
+              - listitem [ref=e276] [cursor=pointer]: Palermo, Italy
+              - listitem [ref=e277] [cursor=pointer]: Palestinian Territory
+              - listitem [ref=e278] [cursor=pointer]: Panama
+              - listitem [ref=e279] [cursor=pointer]: Papua New Guinea
+              - listitem [ref=e280] [cursor=pointer]: Paraguay
+              - listitem [ref=e281] [cursor=pointer]: Paris, France
+              - listitem [ref=e282] [cursor=pointer]: Peru
+              - listitem [ref=e283] [cursor=pointer]: Philippines
+              - listitem [ref=e284] [cursor=pointer]: Pitcairn Islands
+              - listitem [ref=e285] [cursor=pointer]: Plymouth, England
+              - listitem [ref=e286] [cursor=pointer]: Poland
+              - listitem [ref=e287] [cursor=pointer]: Porto, Portugal
+              - listitem [ref=e288] [cursor=pointer]: Portugal
+              - listitem [ref=e289] [cursor=pointer]: Puerto Rico
+              - listitem [ref=e290] [cursor=pointer]: Qatar
+              - listitem [ref=e291] [cursor=pointer]: Quebec, Canada
+              - listitem [ref=e292] [cursor=pointer]: Randers, Denmark
+              - listitem [ref=e293] [cursor=pointer]: Reunion
+              - listitem [ref=e294] [cursor=pointer]: Reykjavik, Iceland
+              - listitem [ref=e295] [cursor=pointer]: Riffa, Bahrain
+              - listitem [ref=e296] [cursor=pointer]: Riga, Latvia
+              - listitem [ref=e297] [cursor=pointer]: Romania
+              - listitem [ref=e298] [cursor=pointer]: Rome, Italy
+              - listitem [ref=e299] [cursor=pointer]: Russian Federation
+              - listitem [ref=e300] [cursor=pointer]: Rwanda
+              - listitem [ref=e301] [cursor=pointer]: Saint Barthelemy
+              - listitem [ref=e302] [cursor=pointer]: Saint Helena
+              - listitem [ref=e303] [cursor=pointer]: Saint Kitts and Nevis
+              - listitem [ref=e304] [cursor=pointer]: Saint Lucia
+              - listitem [ref=e305] [cursor=pointer]: Saint Martin
+              - listitem [ref=e306] [cursor=pointer]: Saint Pierre and Miquelon
+              - listitem [ref=e307] [cursor=pointer]: Saint Vincent and the Grena
+              - listitem [ref=e308] [cursor=pointer]: Salsburg, Austria
+              - listitem [ref=e309] [cursor=pointer]: Samoa
+              - listitem [ref=e310] [cursor=pointer]: San Marino
+              - listitem [ref=e311] [cursor=pointer]: SanFrancisco, United States of America
+              - listitem [ref=e312] [cursor=pointer]: Sao Tome and Principe
+              - listitem [ref=e313] [cursor=pointer]: Saudi Arabia
+              - listitem [ref=e314] [cursor=pointer]: Scotland
+              - listitem [ref=e315] [cursor=pointer]: Senegal
+              - listitem [ref=e316] [cursor=pointer]: Serbia
+              - listitem [ref=e317] [cursor=pointer]: Seville, Spain
+              - listitem [ref=e318] [cursor=pointer]: Seychelles
+              - listitem [ref=e319] [cursor=pointer]: Sharjah, United Arab Emirates (UAE)
+              - listitem [ref=e320] [cursor=pointer]: Sierra Leone
+              - listitem [ref=e321] [cursor=pointer]: Slovakia
+              - listitem [ref=e322] [cursor=pointer]: Slovenia
+              - listitem [ref=e323] [cursor=pointer]: Solomon Islands
+              - listitem [ref=e324] [cursor=pointer]: Somalia
+              - listitem [ref=e325] [cursor=pointer]: South Africa
+              - listitem [ref=e326] [cursor=pointer]: South Korea
+              - listitem [ref=e327] [cursor=pointer]: South Sudan
+              - listitem [ref=e328] [cursor=pointer]: Southampton, England
+              - listitem [ref=e329] [cursor=pointer]: Stuttgart, Germany
+              - listitem [ref=e330] [cursor=pointer]: Sudan
+              - listitem [ref=e331] [cursor=pointer]: Suriname
+              - listitem [ref=e332] [cursor=pointer]: Svalbard & Jan Mayen Islands
+              - listitem [ref=e333] [cursor=pointer]: Swansea, Wales
+              - listitem [ref=e334] [cursor=pointer]: Swaziland
+              - listitem [ref=e335] [cursor=pointer]: Sweden
+              - listitem [ref=e336] [cursor=pointer]: Syrian Arab Republic
+              - listitem [ref=e337] [cursor=pointer]: Taiwan
+              - listitem [ref=e338] [cursor=pointer]: Tajikistan
+              - listitem [ref=e339] [cursor=pointer]: Tampere, Finland
+              - listitem [ref=e340] [cursor=pointer]: Tanzania
+              - listitem [ref=e341] [cursor=pointer]: Texas City, United States of America
+              - listitem [ref=e342] [cursor=pointer]: Thimpu, Bhutan
+              - listitem [ref=e343] [cursor=pointer]: Timor-Leste
+              - listitem [ref=e344] [cursor=pointer]: Togo
+              - listitem [ref=e345] [cursor=pointer]: Tokelau
+              - listitem [ref=e346] [cursor=pointer]: Tonga
+              - listitem [ref=e347] [cursor=pointer]: Toulouse, France
+              - listitem [ref=e348] [cursor=pointer]: Trinidad and Tobago
+              - listitem [ref=e349] [cursor=pointer]: Tunisia
+              - listitem [ref=e350] [cursor=pointer]: Turin, Italy
+              - listitem [ref=e351] [cursor=pointer]: Turkmenistan
+              - listitem [ref=e352] [cursor=pointer]: Turks and Caicos Islands
+              - listitem [ref=e353] [cursor=pointer]: Turku, Finland
+              - listitem [ref=e354] [cursor=pointer]: Tuvalu
+              - listitem [ref=e355] [cursor=pointer]: UAE
+              - listitem [ref=e356] [cursor=pointer]: Uganda
+              - listitem [ref=e357] [cursor=pointer]: Ukraine
+              - listitem [ref=e358] [cursor=pointer]: United States Virgin Islands
+              - listitem [ref=e359] [cursor=pointer]: United States of America
+              - listitem [ref=e360] [cursor=pointer]: Uruguay
+              - listitem [ref=e361] [cursor=pointer]: Uzbekistan
+              - listitem [ref=e362] [cursor=pointer]: Vaduz, Liechtenstein
+              - listitem [ref=e363] [cursor=pointer]: Valencia, Spain
+              - listitem [ref=e364] [cursor=pointer]: Valladolid, Spain
+              - listitem [ref=e365] [cursor=pointer]: Vanuatu
+              - listitem [ref=e366] [cursor=pointer]: Venezuela
+              - listitem [ref=e367] [cursor=pointer]: Venice, Italy
+              - listitem [ref=e368] [cursor=pointer]: Vienna, Austria
+              - listitem [ref=e369] [cursor=pointer]: Vietnam
+              - listitem [ref=e370] [cursor=pointer]: Wales
+              - listitem [ref=e371] [cursor=pointer]: Wallis and Futuna
+              - listitem [ref=e372] [cursor=pointer]: Washington, United States of America
+              - listitem [ref=e373] [cursor=pointer]: Western Sahara
+              - listitem [ref=e374] [cursor=pointer]: Yemen
+              - listitem [ref=e375] [cursor=pointer]: Zambia
+              - listitem [ref=e376] [cursor=pointer]: Zimbabwe
+              - listitem [ref=e377] [cursor=pointer]: Zurich, Switzerland
+              - listitem [ref=e378] [cursor=pointer]: Åland Islands
+              - listitem [ref=e379] [cursor=pointer]: Ho Chi Minh, Vietnam
+              - listitem [ref=e380] [cursor=pointer]: Hanoi, Vietnam
+              - listitem [ref=e381] [cursor=pointer]: Da nang, Vietnam
+              - listitem [ref=e382] [cursor=pointer]: Nha Trang, Vietnam
+              - listitem [ref=e383] [cursor=pointer]: Phu Quoc, Vietnam
+              - listitem [ref=e384] [cursor=pointer]: Bali, Indonesia
+              - listitem [ref=e385] [cursor=pointer]: Jakarta, Indonesia
+              - listitem [ref=e386] [cursor=pointer]: Bangkok, Thailand
+              - listitem [ref=e387] [cursor=pointer]: Phuket, Thailand
+              - listitem [ref=e388] [cursor=pointer]: Pattaya, Thailand
+              - listitem [ref=e389] [cursor=pointer]: Krabi, Thailand
+              - listitem [ref=e390] [cursor=pointer]: Baku, Azerbaijan
+              - listitem [ref=e391] [cursor=pointer]: Almaty, Kazakhstan
+              - listitem [ref=e392] [cursor=pointer]: Doha, Qatar
+              - listitem [ref=e393] [cursor=pointer]: Prague, Czech Republic
+              - listitem [ref=e394] [cursor=pointer]: Langkawi, Malaysia
+              - listitem [ref=e395] [cursor=pointer]: Kuala Lumpur, Malaysia
+              - listitem [ref=e396] [cursor=pointer]: Moscow, Russian Federation
+              - listitem [ref=e397] [cursor=pointer]: Male, Maldives
+              - listitem [ref=e398] [cursor=pointer]: Melbourne, Australia
+              - listitem [ref=e399] [cursor=pointer]: Tokya, Japan
+              - listitem [ref=e400] [cursor=pointer]: Kyoto, Japan
+              - listitem [ref=e401] [cursor=pointer]: Osaka, Japan
+              - listitem [ref=e402] [cursor=pointer]: Muscat, Oman
+              - listitem [ref=e403] [cursor=pointer]: Seoul, South Korea
+              - listitem [ref=e404] [cursor=pointer]: Korea, South Korea
+              - listitem [ref=e405] [cursor=pointer]: Auckland, New Zealand
+              - listitem [ref=e406] [cursor=pointer]: Copenhagen, Denmark
+              - listitem [ref=e407] [cursor=pointer]: Vancouver, Canada
+              - listitem [ref=e408] [cursor=pointer]: Stockholm, Sweden
+          - paragraph [ref=e409]: Popular choices (You can add more than one country)
+          - list [ref=e410]:
+            - listitem [ref=e411] [cursor=pointer]:
+              - img "Schengen_Image" [ref=e413] [cursor=pointer]
+              - paragraph [ref=e414] [cursor=pointer]: Schengen
+            - listitem [ref=e415] [cursor=pointer]:
+              - img "USA_Image" [ref=e417] [cursor=pointer]
+              - paragraph [ref=e418] [cursor=pointer]: USA
+            - listitem [ref=e419] [cursor=pointer]:
+              - img "United Arab Emirates_Image" [ref=e421] [cursor=pointer]
+              - paragraph [ref=e422] [cursor=pointer]: United Arab Emirates
+            - listitem [ref=e423] [cursor=pointer]:
+              - img "Thailand_Image" [ref=e425] [cursor=pointer]
+              - paragraph [ref=e426] [cursor=pointer]: Thailand
+            - listitem [ref=e427] [cursor=pointer]:
+              - img "United Kingdom_Image" [ref=e429] [cursor=pointer]
+              - paragraph [ref=e430] [cursor=pointer]: United Kingdom
+            - listitem [ref=e431] [cursor=pointer]:
+              - img "Germany_Image" [ref=e433] [cursor=pointer]
+              - paragraph [ref=e434] [cursor=pointer]: Germany
+        - article [ref=e435]:
+          - paragraph [ref=e438] [cursor=pointer]:
+            - generic [ref=e439] [cursor=pointer]: Start date
+          - paragraph [ref=e442] [cursor=pointer]:
+            - generic [ref=e443] [cursor=pointer]: End date
+        - article [ref=e444] [cursor=pointer]:
+          - paragraph [ref=e445] [cursor=pointer]: 0 Traveller(s)
+          - link "+ Add travellers" [ref=e447] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - button "Explore Plans ›" [ref=e449] [cursor=pointer]
+    - generic [ref=e452]:
+      - checkbox "*Disclaimer" [ref=e453] [cursor=pointer]
+      - generic [ref=e454]: "*Disclaimer"
+```
