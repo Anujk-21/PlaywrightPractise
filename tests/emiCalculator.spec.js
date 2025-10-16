@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 import { EmiCalculatorPage } from "../pages/EmiCalculatorPage";
-import loanData from "../Data/loanData.json";
+import loanData from "../data/loandata.json";
 
 test.describe("Smoke & Sanity Tests - EMI Calculator", () => {
   test.beforeEach(async ({ page }) => {
